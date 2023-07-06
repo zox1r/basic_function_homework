@@ -3,4 +3,9 @@
 //  Create function with parameter a type of int.
 
 //  Return the negative value of a.
-void main() {}
+int func(){
+    return -1;
+}
+void main() {
+    print(func());
+}
