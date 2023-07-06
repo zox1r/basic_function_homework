@@ -1,4 +1,9 @@
 // Create a function called func.
 
 // Return the value double type.
-void main() {}
+double func(){
+    return 3.14;
+}
+void main() {
+    print(func());
+}
